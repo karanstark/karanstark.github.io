@@ -1,0 +1,1 @@
+This is my personal website hosted using GitHub Pages. It’s a simple static site built with HTML and CSS and deployed directly from this repository. You can view it live at https://karanstark.github.io.
